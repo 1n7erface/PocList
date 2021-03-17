@@ -21,3 +21,4 @@ java -jar xx.jar </br>
 #### TDOA-V11.7-GetOnlineCookie </br>
 #### VMware-vCenter-GetAnyFile </br>
 #### yongyou-GRP-U8-XXE </br>
+#### Oracle-WebLogic-CVE-2020-14883 </br>
