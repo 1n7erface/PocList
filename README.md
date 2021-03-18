@@ -23,3 +23,4 @@ java -jar xx.jar </br>
 #### yongyou-GRP-U8-XXE </br>
 #### Oracle-WebLogic-CVE-2020-14883 </br>
 #### Oracle-WebLogic-CVE-2020-14882 </br>
+#### Apache-Solr-GetAnyFile </br>
