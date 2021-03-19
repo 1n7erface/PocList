@@ -5,7 +5,7 @@
 ## 作者微信</br>
 ![mmqrcode1615447892452](https://user-images.githubusercontent.com/52184829/110867567-ef6c7300-8301-11eb-8fb9-a55274c820c9.png)
 ## 关于使用 
-### 1.将收集到的地址放入txt文件,每行一个. </br>
+### 1.将收集到的地址放入txt文件,每行一个.
 ![image](https://user-images.githubusercontent.com/52184829/111638853-b2d6d500-8835-11eb-8db8-a59e948baef5.png) </br>
 ### 2.java -jar xx.jar </br>
 ![image](https://user-images.githubusercontent.com/52184829/111639477-43151a00-8836-11eb-97ee-b85f3f7f60e5.png) </br>
@@ -13,6 +13,8 @@
 ![image](https://user-images.githubusercontent.com/52184829/111639687-6e980480-8836-11eb-9f68-2b9d7603fc1a.png) </br>
 ### 4.所有的POC都如此做即可
 
+## 免责声明 
+此处提供的所有工具仅供授权状态下使用,如发生刑事案件,非授权攻击行为于本人无关.望大家熟知《网络安全法》.
 ## 感谢⭐
 最后别忘了给一些小星星,你的星星是我前进的动力. </br>
 ![u=3200983364,1634494944 fm=26 gp=0](https://user-images.githubusercontent.com/52184829/110867728-3490a500-8302-11eb-9d08-df4c6a56b8bd.jpg)  </br>
