@@ -34,3 +34,4 @@
 #### Apache-Solr-GetAnyFile </br>
 #### F5-BIG-IP-CVE-2021-22986 </br>
 #### Sonicwall-SSL-VPN-RCE </br>
+#### GitLab-Graphql-CNVD-2021-14193 </br>
