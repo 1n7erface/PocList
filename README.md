@@ -38,3 +38,4 @@
 #### D-Link-DCS-CVE-2020-25078 </br>
 #### WLAN-AP-WEA453e-RCE </br>
 #### 360TianQing-Unauthorized </br>
+#### 360TianQing-SQLinjection </br>
