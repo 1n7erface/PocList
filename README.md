@@ -4,6 +4,9 @@
 ![hdImg_1b0ab579408b4131cc236bb3cdfa67de16154477928](https://user-images.githubusercontent.com/52184829/110867549-e8456500-8301-11eb-90aa-19429f07ac58.jpg)
 ## 作者微信</br>
 ![mmqrcode1615447892452](https://user-images.githubusercontent.com/52184829/110867567-ef6c7300-8301-11eb-8fb9-a55274c820c9.png)
+## 作者团队公众号</br>
+![qrcode_for_gh_e100465543dd_430](https://user-images.githubusercontent.com/52184829/114024281-6f0c4400-98a6-11eb-8e81-715647f0ee9d.jpg)
+### 所有工具以及复现文章第一时间在公众号更新.
 ## 关于使用 
 ### 1.将收集到的地址放入txt文件,每行一个.
 ![image](https://user-images.githubusercontent.com/52184829/111638853-b2d6d500-8835-11eb-8db8-a59e948baef5.png) </br>
